@@ -1,0 +1,22 @@
+
+.ul{
+    display: flex;
+     flex-direction:column; 
+     gap: 30px;
+     background-color: aquamarine;
+     
+}
+.li{
+    display:flex; 
+    align-items:flex-start;
+    width:300px;
+    background-color: azure;
+    border: 1px solid red;
+}
+.div1{
+    cursor:pointer;
+     margin-right:10px
+}
+.div2{
+    margin-left:20px;
+}

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Items",
+      "children": [
+        {
+          "id": 11,
+          "name": "Vegetables",
+          "children": [
+            {
+              "id": 111,
+              "name": "red",
+              "children": [
+                { "id": 1111, "name": "onion", "children": [] },
+                { "id": 1112, "name": "Carrat", "children": [] }
+              ]
+            },
+            { "id": 112, "name": "White", "children": [
+                { "id": 1121, "name": "Radish", "children": [] },
+                { "id": 1122, "name": "Patato", "children": [] }] }
+          ]
+        },
+        { "id": 12, "name": "Fruites", "children": [] }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Colors",
+      "children": [
+        { "id": 21, "name": "RED", "children": [] },
+        { "id": 22, "name": "Green", "children": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "applications",
+      "children": [
+        {
+          "id": 31,
+          "name": "Home",
+          "children": [
+            { "id": 311, "name": "Kitchen", "children": [] },
+            {
+              "id": 312,
+              "name": "Food",
+              "children": [
+                { "id": 3121, "name": "Tiffin", "children": [] },
+                { "id": 3122, "name": "Meal", "children": [] }
+              ]
+            }
+          ]
+        },
+        { "id": 32, "name": "Hotels", "children": [] }
+      ]
+    }
+  ]

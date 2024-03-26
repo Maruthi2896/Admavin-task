@@ -1,0 +1,27 @@
+.task-box{
+    background-color: #E2E3E0;
+    height:100vh;
+    width:100bh;
+    margin:20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+.bucket{
+    background-color: azure;
+    border-radius: 10px;
+    width:25%;
+    height:80%;
+    overflow: auto;
+    display:flex;
+    flex-direction:column;
+    justify-content:start;
+}
+.actions{
+    display:flex;
+    flex-direction: column;
+    margin:40px;
+    gap:30px;
+}
